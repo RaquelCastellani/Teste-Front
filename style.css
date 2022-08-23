@@ -27,4 +27,5 @@ p {
 .secondary { 
     background-color: transparent;
     color: 800080;
+    border-color: 800080;
 }
