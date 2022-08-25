@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fundo {
+    background: url(./img/bg.png);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo {
+    background-color: white;
+    width: 100%;
+    max-width: 630px;
+    text-align: center;
+    padding: 30px 10px;
+}
+
+.beyonce {
+    width: 100%;
+    max-width: 230px;
+}
