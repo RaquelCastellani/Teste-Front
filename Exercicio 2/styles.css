@@ -3,6 +3,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h2 {
+    color: purple;
+}
+
 .fundo {
     background: url(./img/bg.png);
     height: 100vh;
@@ -14,12 +18,25 @@ body {
 .conteudo {
     background-color: white;
     width: 100%;
-    max-width: 630px;
+    max-width: 350px;
     text-align: center;
     padding: 30px 10px;
 }
 
 .beyonce {
     width: 100%;
-    max-width: 230px;
+    max-width: 150px;
+}
+
+.aside {
+    display: flex;
+}
+
+.icone {
+    font-size: 20px;
+    padding: 6px;
+    color: purple;
+    border: 2px solid purple;
+    border-radius: 40px;
+    margin: 20px;
 }
