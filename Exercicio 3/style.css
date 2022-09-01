@@ -1,0 +1,8 @@
+body {
+    color: purple;
+    max-height: 100vh;
+}
+
+img {
+    max-width: 300px;
+}
