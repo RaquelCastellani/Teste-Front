@@ -1,8 +1,41 @@
 body {
     color: purple;
-    max-height: 100vh;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
+    max-width: 300px;
+}
+
+.btn {
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.primary {
+    background-color: purple;
+    color: white;
+    border: 0;
+}
+
+.secondary {
+    color: purple;
+    border-color: purple;
+    background-color: white;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.conteudo {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.imagem {
     max-width: 300px;
 }
