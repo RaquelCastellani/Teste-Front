@@ -11,6 +11,8 @@ img {
 .btn {
     padding: 10px 20px;
     border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .primary {
@@ -33,9 +35,13 @@ h2 {
 .conteudo {
     display: flex;
     gap: 20px;
-    align-items: center;
+    justify-content: center;
 }
 
 .imagem {
     max-width: 300px;
+}
+
+.espacamento {
+    line-height: 30px;
 }
